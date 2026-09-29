@@ -1,0 +1,8 @@
+{
+  "name": "Remix ApexCA Practice Ecosystem",
+  "description": "Comprehensive digital ecosystem for Chartered Accountants and CA firms featuring client management, tax filing, assurance \u0026 audit trails, document vaults, billing, and regulatory compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
